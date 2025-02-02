@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "bookmark",
+    "slug": "bookmark",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#18181B"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#18181B"
+      }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5f991e42-c826-4642-a648-3080ba8cbc1d"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/5f991e42-c826-4642-a648-3080ba8cbc1d"
+    }
+  }
+}
