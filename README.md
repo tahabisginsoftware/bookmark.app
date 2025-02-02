@@ -1,4 +1,4 @@
-<img align="left" alt="1" src="https://github.com/tahabisginsoftware/bookmark.app/blob/master/Header.png" width="100"/> 
+<img align="center" alt="1" src="https://github.com/tahabisginsoftware/bookmark.app/blob/master/Header.png" width="100"/> 
 
-# bookmark.app
-Progress Tracker for Books.
+---
+### Progress Tracker for Books.
