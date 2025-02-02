@@ -5,3 +5,9 @@
 
 Special thanks to bolt.new for the web version. <br>
 This thing is crazy!
+
+Try it out: https://bookmarkvsn.netlify.app/
+
+#### Alternatively
+
+Build the App version with eas and run it on your phone.
